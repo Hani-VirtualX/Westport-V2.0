@@ -1,0 +1,12 @@
+# Unreal Engine temporary folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Source control and IDE files
+.vs/
+*.sln
+*.suo
+*.xcodeproj
